@@ -139,7 +139,7 @@ def parse_parameters(root_folder):
 
                         """),
                         type=str,
-                        default="Predator")
+                        default="Predator🇮🇩")
     parser.add_argument("-i",
                         "--incremental",
                         help=textwrap.dedent("""\
